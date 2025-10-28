@@ -1,0 +1,2 @@
+This project was completed as a part of my Object-Oriented Programming module during Year 1 of my studies at Ulster University Belfast. It is a management system for a hypothetical pet clinic with features such as adding, deleting, modifying pets, assigning vets,
+booking appointments, among other useful features that would aid the day to day effective running of a real world pet clinic. The code includes validation and user friendly error messages to keep users on the right track.
